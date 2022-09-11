@@ -1,0 +1,1 @@
+dofile("sys/lua/hl2d/main.lua")
